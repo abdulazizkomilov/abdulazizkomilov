@@ -23,6 +23,6 @@
 
 - Portfolio Data Science - [mydsportfolio](https://kingsdev.herokuapp.com/)
 - Portfolio Full Stack - [mydsportfolio](https://kingsdev.herokuapp.com/)
-- Instagram - [@abdulziz9963](https://kingsdev.herokuapp.com/)
-- Linked In - [@abdulziz](https://kingsdev.herokuapp.com/)
-- Telegram - [@abdulziz9963](https://kingsdev.herokuapp.com/)
+- Instagram - [@abdulaziz9963](https://www.instagram.com/invites/contact/?i=i5vhx1u4020i&utm_content=lj9nhkh)
+- Linked In - [@abdulaziz](https://www.linkedin.com/in/abdulaziz-komilov-203060246)
+- Telegram - [@abdulaziz99_63](https://t.me/abdulaziz99_63)
