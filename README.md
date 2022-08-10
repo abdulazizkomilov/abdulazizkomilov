@@ -5,7 +5,7 @@
 
 ---
 
-### technologies
+### Technologies
 
 - HTML, Css, Node Js, BootStrap 4 & 5, Tailwind
 - Django
