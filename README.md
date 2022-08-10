@@ -1,10 +1,11 @@
 # Abdulaziz Komilov
 
+> Who I am? 
 > Full Stack and Data Science Developer
 
 ---
 
-### Texnalogiyalar
+### technologies
 
 - HTML, Css, Node Js, BootStrap 4 & 5, Tailwind
 - Django
