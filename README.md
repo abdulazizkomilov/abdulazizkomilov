@@ -1,7 +1,7 @@
 # Abdulaziz Komilov
 
 > Who I am? 
->> I am Full Stack and Data Science Developer
+>> ### I am Full Stack and Data Science Developer
 
 ---
 
