@@ -7,10 +7,13 @@
 
 ### Technologies
 
-- HTML, Css, Node Js, BootStrap 4 & 5, Tailwind
-- Django
-- Django Rest Framework
-- Git, GitHub
+- HTML, Css, Node Js, BootStrap 4 & 5, Tailwind,Vue JS 
+- Python, OOP, Algorithms 
+- Django, Django REST Framework
+- Celery, Redis, RabbitMQ
+- Python Telegram Bot, Aiogram
+- Data Science, Numpy, Pandas
+- Git, GitHub, GitLab
 - PostgresSQL, SQL, SQLite
 - AWS, Digital Ocean, Railway, Heroku
 ---
@@ -25,6 +28,5 @@
 ### References
 
 - Portfolio Full Stack - [Portfolio](https://t.me/abdulaziz_portfolio_dev)
-- Instagram - [@abdulaziz9963](https://www.instagram.com/invites/contact/?i=i5vhx1u4020i&utm_content=lj9nhkh)
 - Linked In - [@abdulaziz](https://www.linkedin.com/in/abdulaziz-komilov-203060246)
 - Telegram - [@abdulaziz99_63](https://t.me/abdulaziz99_63)
