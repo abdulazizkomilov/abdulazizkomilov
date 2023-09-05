@@ -27,5 +27,5 @@
 ### References
 
 - Portfolio Full Stack - [Portfolio](https://t.me/abdulaziz_portfolio_dev)
-- Linked In - [@abdulaziz](https://www.linkedin.com/in/abdulaziz-komilov-203060246)
+- Linked In - [@abdulaziz](www.linkedin.com/in/abdulaziz-komilov)
 - Telegram - [@abdulaziz99_63](https://t.me/abdulaziz99_63)
