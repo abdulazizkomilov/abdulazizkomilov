@@ -4,7 +4,7 @@
 
 ---
 
-### Technologies
+### Skills
 
 - HTML, Css, Node Js, BootStrap 4 & 5, Tailwind,Vue JS 
 - Python, OOP, Algorithms 
