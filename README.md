@@ -1,6 +1,5 @@
 # Abdulaziz Komilov
 
-> Who I am?
 > I am a junior python backend developer. I have 3 years of teaching experience in python, django ORM and DRF. I myself have been doing various small projects, for example Social Network, Blog site, E-commerce, Quiz site, Telegram Delivery Bot, Looks like Medium small site. I used various modern technologies in these projects, for example: Django REST API, Celery, Docker, AWS, DigitalOcean, Aiogram, PostgreSQL, SQL, Redis and more
 
 ---
